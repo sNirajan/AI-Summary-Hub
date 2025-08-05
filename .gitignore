@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Output directories
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Coverage reports (if using Jest)
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
